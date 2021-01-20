@@ -14,28 +14,28 @@ Enter the Adjacency Matrix with <b> 1->PATH & 0->NO </b>PATH Between two WebPage
 ## Total Number of Nodes: 4	 Initial PageRank of All Nodes :0.25
 
 ### Initial PageRank Values , 0th Step 
- - Page Rank of 1 is :	0.25
- - Page Rank of 2 is :	0.25
- - Page Rank of 3 is :	0.25
- - Page Rank of 4 is :	0.25
+ - Page Rank of 1 is :	<b> 0.25</b>
+ - Page Rank of 2 is :	<b> 0.25 </b>
+ - Page Rank of 3 is :	<b> 0.25 </b>
+ - Page Rank of 4 is :	<b> 0.25 </b>
 
 ### After 1th Step 
-- Page Rank of 1 is :	0.125
-- Page Rank of 2 is :	0.375
-- Page Rank of 3 is :	0.25
-- Page Rank of 4 is :	0.25
+- Page Rank of 1 is :	<b> 0.125 </b>
+- Page Rank of 2 is :	<b> 0.375 </b>
+- Page Rank of 3 is :	<b> 0.25 </b>
+- Page Rank of 4 is :	<b> 0.25 </b>
 
 ### After 2th Step 
-- Page Rank of 1 is :	0.125
-- Page Rank of 2 is :	0.25
-- Page Rank of 3 is :	0.25
-- Page Rank of 4 is :	0.375
+- Page Rank of 1 is :	<b> 0.125 </b>
+- Page Rank of 2 is :	<b> 0.25 </b> 
+- Page Rank of 3 is :	<b> 0.25 </b>
+- Page Rank of 4 is :	<b> 0.375 </b> 
 
 ### Final Page Rank : 
- - Page Rank of 1 is :	0.25625
- - Page Rank of 2 is :	0.3625
- - Page Rank of 3 is :	0.3625
- - Page Rank of 4 is :	0.46875
+ - Page Rank of 1 is :	<b> 0.25625 </b>
+ - Page Rank of 2 is :	<b> 0.3625 </b>
+ - Page Rank of 3 is :	<b> 0.3625 </b>
+ - Page Rank of 4 is :	<b> 0.46875 </b>
 ---------------------------------------------------------------
 # Note
 - Final Page Rank Includes Damping Factor of 0.85 which is usually set between 0 and 1.
