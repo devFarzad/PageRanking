@@ -1,7 +1,7 @@
 # PageRanking
 ## PageRank Algorithm, C#, WPF
 
-Enter the Number of WebPages : <b>5</b>
+Enter the Number of WebPages Or Nodes : <b>4</b>
 Enter the Adjacency Matrix with <b> 1->PATH & 0->NO </b>PATH Between two WebPages:
 
 ## Matrix
