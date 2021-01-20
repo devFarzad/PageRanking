@@ -1,0 +1,14 @@
+C:\Users\Farzad\Projects\C#AndSql\Page Ranking\PageRanking\PageRanking\bin\Debug\PageRanking.exe.config
+C:\Users\Farzad\Projects\C#AndSql\Page Ranking\PageRanking\PageRanking\bin\Debug\PageRanking.exe
+C:\Users\Farzad\Projects\C#AndSql\Page Ranking\PageRanking\PageRanking\bin\Debug\PageRanking.pdb
+C:\Users\Farzad\Projects\C#AndSql\Page Ranking\PageRanking\PageRanking\obj\Debug\PageRanking.csprojAssemblyReference.cache
+C:\Users\Farzad\Projects\C#AndSql\Page Ranking\PageRanking\PageRanking\obj\Debug\MainWindow.g.cs
+C:\Users\Farzad\Projects\C#AndSql\Page Ranking\PageRanking\PageRanking\obj\Debug\App.g.cs
+C:\Users\Farzad\Projects\C#AndSql\Page Ranking\PageRanking\PageRanking\obj\Debug\PageRanking_MarkupCompile.cache
+C:\Users\Farzad\Projects\C#AndSql\Page Ranking\PageRanking\PageRanking\obj\Debug\PageRanking_MarkupCompile.lref
+C:\Users\Farzad\Projects\C#AndSql\Page Ranking\PageRanking\PageRanking\obj\Debug\MainWindow.baml
+C:\Users\Farzad\Projects\C#AndSql\Page Ranking\PageRanking\PageRanking\obj\Debug\PageRanking.g.resources
+C:\Users\Farzad\Projects\C#AndSql\Page Ranking\PageRanking\PageRanking\obj\Debug\PageRanking.Properties.Resources.resources
+C:\Users\Farzad\Projects\C#AndSql\Page Ranking\PageRanking\PageRanking\obj\Debug\PageRanking.csproj.GenerateResource.cache
+C:\Users\Farzad\Projects\C#AndSql\Page Ranking\PageRanking\PageRanking\obj\Debug\PageRanking.exe
+C:\Users\Farzad\Projects\C#AndSql\Page Ranking\PageRanking\PageRanking\obj\Debug\PageRanking.pdb
