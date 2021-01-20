@@ -12,12 +12,9 @@ Enter the Adjacency Matrix with 1->PATH & 0->NO PATH Between two WebPages:
 
 # Matrix
 
-[0 1 0 0 
-0 0 0 1 
-1 1 0 0 
-0 0 1 0 ]
 
-
+do %matrix.red
+>> matrix [4x4 [0 1 0 0 0 0 0 1 1 1 0 0 0 0 1 0]]
 
 
 ---------------------------------------------------------------
