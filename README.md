@@ -1,47 +1,41 @@
 # PageRanking
 PageRank Algorithm, C#, WPF
 
-
-
-
-
-
-
 Enter the Number of WebPages : 5
 Enter the Adjacency Matrix with 1->PATH & 0->NO PATH Between two WebPages:
 
-# Matrix
+## Matrix
 
-0 1 0 0\n
-0 0 0 1\n
-1 1 0 0\n
-0 0 1 0\n
+0 1 0 0 <br/>
+0 0 0 1 <br/>
+1 1 0 0 <br/>
+0 0 1 0 <br/>
 ---------------------------------------------------------------
-# Total Number of Nodes: 4	 Initial PageRank of All Nodes :0.25
+## Total Number of Nodes: 4	 Initial PageRank of All Nodes :0.25
 
-# Initial PageRank Values , 0th Step 
- Page Rank of 1 is :	0.25
- Page Rank of 2 is :	0.25
- Page Rank of 3 is :	0.25
- Page Rank of 4 is :	0.25
+### Initial PageRank Values , 0th Step 
+ - Page Rank of 1 is :	0.25
+ - Page Rank of 2 is :	0.25
+ - Page Rank of 3 is :	0.25
+ - Page Rank of 4 is :	0.25
 
-# After 1th Step 
-Page Rank of 1 is :	0.125
-Page Rank of 2 is :	0.375
-Page Rank of 3 is :	0.25
-Page Rank of 4 is :	0.25
+### After 1th Step 
+- Page Rank of 1 is :	0.125
+- Page Rank of 2 is :	0.375
+- Page Rank of 3 is :	0.25
+- Page Rank of 4 is :	0.25
 
-# After 2th Step 
-Page Rank of 1 is :	0.125
-Page Rank of 2 is :	0.25
-Page Rank of 3 is :	0.25
-Page Rank of 4 is :	0.375
+### After 2th Step 
+- Page Rank of 1 is :	0.125
+- Page Rank of 2 is :	0.25
+- Page Rank of 3 is :	0.25
+- Page Rank of 4 is :	0.375
 
-# Final Page Rank : 
- Page Rank of 1 is :	0.25625
- Page Rank of 2 is :	0.3625
- Page Rank of 3 is :	0.3625
- Page Rank of 4 is :	0.46875
+### Final Page Rank : 
+ - Page Rank of 1 is :	0.25625
+ - Page Rank of 2 is :	0.3625
+ - Page Rank of 3 is :	0.3625
+ - Page Rank of 4 is :	0.46875
 ---------------------------------------------------------------
 # Note
 -Final Page Rank Includes Damping Factor of 0.85 which is usually set between 0 and 1.
