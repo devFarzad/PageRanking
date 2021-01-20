@@ -56,5 +56,5 @@ Please Note: Actual google Page rank Algorithm for large network of webpages gro
 ### Update2: I have Considered Damping Factor in my Implementation which is set to 0.85.
 ### Update3:while(u<=2) Changed to while(ITERATION_STEP<=2).
 
-# Developers
+# Developer
  - [Farzad](https://github.com/theveloper90) 
